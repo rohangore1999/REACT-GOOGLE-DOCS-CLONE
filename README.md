@@ -1,3 +1,11 @@
+REACT-GOOGLE-DOCS-CLONE using NEXTJS, RICH-TEXT-EDITOR, TAILWIND CSS, FIREBASE, NEXT-AUTH [GOOGLE PROVIDER].
+
+VERCEL DEPLOYED ~ https://react-google-docs-clone-hs6rohzvg-rohangore1999.vercel.app/
+
+
+------------------------------------------------------------------------------------------------------------
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
